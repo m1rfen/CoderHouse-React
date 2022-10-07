@@ -1,0 +1,49 @@
+{
+  "calzado": [
+    {
+      "nombre": "Nike Air Max Sc",
+      "precio": "6.190",
+      "genero": "Mujer",
+      "disciplina": "Moda",
+      "modelo": "Air Max",
+      "color": "Blanco",
+      "img": "https://f.fcdn.app/imgs/1a05c4/www.lacancha.uy/lcanuy/eda8/webp/catalogo/DJ2003_100_1/800x800/nike-air-max-excee-s50-nike-air-max-excee-s50.jpg"
+    },
+    {
+      "nombre": "Nike Air Max Ap",
+      "precio": "6.790",
+      "genero": "Hombre",
+      "disciplina": "Moda",
+      "modelo": "Air Max",
+      "color": "Blanco",
+      "img": "//f.fcdn.app/imgs/bc2e2d/www.lacancha.uy/lcanuy/b56f/webp/catalogo/CU4826_004_1/800x800/nike-air-max-ap-nike-air-max-ap.jpg"
+    },
+    {
+      "nombre": "Nike Air Max Ap",
+      "precio": "6.990",
+      "genero": "Mujer",
+      "disciplina": "Moda",
+      "modelo": "Air Max",
+      "color": "Blanco",
+      "img": "//f.fcdn.app/imgs/451ddb/www.lacancha.uy/lcanuy/1ab2/webp/catalogo/CU4870_103_1/800x800/nike-air-max-ap-nike-air-max-ap.jpg"
+    },
+    {
+      "nombre": "Nike Air Max Excee Lea",
+      "precio": "6.790",
+      "genero": "Mujer",
+      "disciplina": "Moda",
+      "modelo": "Air Max",
+      "color": "Beige",
+      "img": "//f.fcdn.app/imgs/4897d3/www.lacancha.uy/lcanuy/10f7/webp/catalogo/DM0837_100_1/800x800/nike-air-max-excee-lea-nike-air-max-excee-lea.jpg"
+    },
+    {
+      "nombre": "Nike Air Max Sc",
+      "precio": "5.490",
+      "genero": "Hombre",
+      "disciplina": "Moda",
+      "modelo": "Air Max",
+      "color": "Blanco",
+      "img": "//f.fcdn.app/imgs/ab1697/www.lacancha.uy/lcanuy/2eda/webp/catalogo/DH9636_100_1/800x800/nike-air-max-sc-nike-air-max-sc.jpg"
+    }
+  ]
+}
